@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Reactjs Expressjs Nextjs<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Reactjs Expressjs Nextjs Threejs TailWindCSS<br>👯 I’m looking to collaborate on JavaScript TypeScript Threejs React-Threefibre TailWindCSS<br>🤝 I’m looking for help with ThreeJS Pyhton<br>🌱 I’m currently learning ThreeJS Nextjs AWS<br>💬 Ask me about JavaScript Reactjs Nodejs Express TailWindCSS<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
